@@ -1,0 +1,15 @@
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\bin\Debug\net8.0\Day2P2.exe
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\bin\Debug\net8.0\Day2P2.deps.json
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\bin\Debug\net8.0\Day2P2.runtimeconfig.json
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\bin\Debug\net8.0\Day2P2.dll
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\bin\Debug\net8.0\Day2P2.pdb
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\Day2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\Day2P2.AssemblyInfoInputs.cache
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\Day2P2.AssemblyInfo.cs
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\Day2P2.csproj.CoreCompileInputs.cache
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\Day2P2.sourcelink.json
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\Day2P2.dll
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\refint\Day2P2.dll
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\Day2P2.pdb
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\Day2P2.genruntimeconfig.cache
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day2P2\obj\Debug\net8.0\ref\Day2P2.dll

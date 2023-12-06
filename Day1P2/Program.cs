@@ -8,14 +8,6 @@ namespace Day1P2
     {
         static string[] letters = new[]
         {
-            "oneight": "18",
-            "twone": "21",
-            "threeight": "38",
-            "fiveight": "58",
-            "sevenine": "79",
-            "eightwo": "82",
-            "eighthree",
-            "nineight",
             "one",
             "two",
             "three",
@@ -48,7 +40,7 @@ namespace Day1P2
             for (int i = 0; i < letters.Length; i++)
             {
                 string letter = letters[i];
-                line = line.Replace(letter, (i + 1).ToString());
+                line = line.Replace(letter, letter + (i + 1).ToString());
             }
             return line;
         }

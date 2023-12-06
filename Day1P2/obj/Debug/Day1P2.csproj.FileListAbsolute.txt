@@ -4,3 +4,9 @@ C:\Users\Coen\RiderProjects\AdventOfCode23\Day1P2\obj\Debug\Day1P2.csproj.Assemb
 C:\Users\Coen\RiderProjects\AdventOfCode23\Day1P2\obj\Debug\Day1P2.csproj.CoreCompileInputs.cache
 C:\Users\Coen\RiderProjects\AdventOfCode23\Day1P2\obj\Debug\Day1P2.exe
 C:\Users\Coen\RiderProjects\AdventOfCode23\Day1P2\obj\Debug\Day1P2.pdb
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day1P2\bin\Debug\Day1P2.exe
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day1P2\bin\Debug\Day1P2.pdb
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day1P2\obj\Debug\Day1P2.csproj.AssemblyReference.cache
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day1P2\obj\Debug\Day1P2.csproj.CoreCompileInputs.cache
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day1P2\obj\Debug\Day1P2.exe
+C:\Users\Coen\RiderProjects\oefeningen\AdventOfCode23\Day1P2\obj\Debug\Day1P2.pdb
