@@ -40,7 +40,7 @@ namespace Day1P2
             for (int i = 0; i < letters.Length; i++)
             {
                 string letter = letters[i];
-                line = line.Replace(letter, letter + (i + 1).ToString());
+                line = line.Replace(letter, letter + (i + 1) + letter.ToString());
             }
             return line;
         }

@@ -7,7 +7,7 @@ namespace Day3P1
 {
     internal class Program
     {
-        public static List<char> symbols = new List<char>()
+        private static List<char> symbols = new List<char>()
         {
             '+',
             '*',
@@ -104,14 +104,14 @@ namespace Day3P1
             {
                 return false;
             }
-            else
+            if (SymbolCheck(rowArray[end + 1]) && rowArray[end + 1] != '.')
             {
-                if (SymbolCheck(rowArray[end + 1]) && rowArray[end + 1] != '.')
-                {
-                    return true;
-                }
+                return true;
             }
-
+            if (SymbolCheck(rowArray[end + 1]) && rowArray[end + 1] != '.')
+            {
+                return true;
+            }
             return false;
         }
 
@@ -151,7 +151,6 @@ namespace Day3P1
                             return true;
                         }
                     }
-                    
                 }
             }
             return false;
@@ -166,7 +165,6 @@ namespace Day3P1
                     return true;
                 }
             }
-
             return false;
         }
     }
