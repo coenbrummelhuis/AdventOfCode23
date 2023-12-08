@@ -85,6 +85,18 @@ namespace Day3P1
                     number = "";
                 }
             }
+
+            if (start != -1)
+            {
+                int[] position =
+                {
+                    int.Parse(number), start, end
+                };
+                numberDictionary.Add(numberDictionary.Count, position);
+                start = -1;
+                end = -1;
+                number = "";
+            }
             return numberDictionary;
         }
 
@@ -126,14 +138,13 @@ namespace Day3P1
                 string aboveRow = rows[aboveRowIndex];
                 for (int i = start - 1; i < end + 2; i++)
                 {
-                    if (i > 0 && i < aboveRow.ToCharArray().Length-1)
+                    if (i >= 0 && i <= aboveRow.ToCharArray().Length - 1)
                     {
-                        if (char.IsSymbol(aboveRow.ToCharArray()[i]) && aboveRow.ToCharArray()[i] != '.')
+                        if (SymbolCheck(aboveRow.ToCharArray()[i]) && aboveRow.ToCharArray()[i] != '.')
                         {
                             return true;
                         }
                     }
-                    
                 }
             }
             
